@@ -1,0 +1,75 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+img {
+  display: block;
+  width: 98.7vw;
+  height: 100vh;
+  object-fit: cover;
+}
+.apple_title {
+  background-color: black;
+  color: aliceblue;
+  text-align: center;
+}
+.apple_dis {
+  font-style: italic;
+  font-size: 1rem;
+  margin: 1rem;
+  border: 1rem;
+}
+.apple_eve {
+  text-align: center;
+
+  font-style: initial;
+  font-size: 2rem;
+  padding-top: 1rem;
+}
+.apple_new {
+  text-align: center;
+  border-bottom: 3rem;
+  font-style: initial;
+  font-size: 1rem;
+}
+.apple_eve1 {
+  text-align: center;
+  color: black;
+  font-style: initial;
+  font-size: 2rem;
+  padding: 2rem;
+}
+.apple_new2 {
+  text-align: center;
+  font-size: 2rem;
+  color: black;
+  padding: 2rem;
+  background-color: rgb(243, 186, 186);
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+  color: black;
+}
+.apple_gen {
+  display: flex;
+  justify-content: space-between;
+}
+.apple_1div {
+  align-items: center;
+  padding: auto;
+  margin: auto;
+  font-size: 2rem;
+}
+.img13 {
+  height: 500px;
+  width: 700px;
+}
+.hovver:hover {
+  color: #fff;
+  background-color: #000;
+}
