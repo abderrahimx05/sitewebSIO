@@ -69,7 +69,41 @@ a:hover {
   height: 500px;
   width: 700px;
 }
+.img14 {
+  height: 800px;
+  width: 600px;
+}
 .hovver:hover {
   color: #fff;
   background-color: #000;
+}
+.img13:hover {
+  cursor: pointer;
+  opacity: 0.8;
+}
+table {
+  border-collapse: collapse;
+  margin-left: 5rem;
+}
+thead,
+tfoot {
+  background-color: #333;
+  color: #fff;
+  font-size: 2rem;
+  width: 50%;
+}
+tbody,
+td {
+  font-style: italic;
+  width: 50%;
+  text-align: center;
+}
+.apple_gen2 {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+.apple_tab {
+  margin-right: 6rem;
+  padding-bottom: 2rem;
 }
