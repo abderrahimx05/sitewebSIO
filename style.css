@@ -76,6 +76,7 @@ a:hover {
 .hovver:hover {
   color: #fff;
   background-color: #000;
+  cursor: pointer;
 }
 .img13:hover {
   cursor: pointer;
