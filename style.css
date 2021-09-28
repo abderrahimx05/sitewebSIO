@@ -9,6 +9,7 @@ img {
   width: 98.7vw;
   height: 100vh;
   object-fit: cover;
+  font-size: medium;
 }
 .apple_title {
   background-color: black;
@@ -48,6 +49,9 @@ img {
   padding: 2rem;
   background-color: rgb(243, 186, 186);
 }
+.imgwatch {
+  padding-right: 5em;
+}
 a {
   text-decoration: none;
 }
@@ -78,7 +82,8 @@ a:hover {
   background-color: #000;
   cursor: pointer;
 }
-.img13:hover {
+.img13:hover,
+.img14:hover {
   cursor: pointer;
   opacity: 0.8;
 }
@@ -108,6 +113,7 @@ td {
   margin-right: 6rem;
   padding-bottom: 2rem;
 }
-.tabb {
-  transition: transform 0.1s ease-in;
+.logo {
+  height: 8%;
+  width: 8%;
 }
